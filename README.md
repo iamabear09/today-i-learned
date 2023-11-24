@@ -6,6 +6,9 @@
 
 #### 📘학습 기록
 
+**2023-11-25 (토)**
+- [class가 loading되고 초기화 되는 과정까지의 과정 학습](jvm/life-of-a-class.pdf)
+
 **2023-11-24 (금)**
 - [Java Byte Code (.Class file) format](jvm/class-file-format.pdf)
 
