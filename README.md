@@ -6,6 +6,9 @@
 
 #### 📘학습 기록
 
+**2023-11-26 (일)**
+- [jvm memory 학습 및 method 호출 시 jvm memory 변화 과정 학습](jvm/jvm-memory.pdf)
+
 **2023-11-25 (토)**
 - [class가 loading되고 초기화 되는 과정까지의 과정 학습](jvm/life-of-a-class.pdf)
 
