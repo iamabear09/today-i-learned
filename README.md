@@ -5,6 +5,9 @@
 - 커밋 내용 → `code` 또는 학습 내용을 `PPT`로 정리한 후 `pdf`로 업로드
 
 #### 📘학습 기록
+**2023-11-26 (일)**
+- [network-delay의 원인 학습](network/network-delay.pdf)
+- [Demux/Mux와 TCP&UDP의 socket 연결 시 차이점](network/TCP&UDP-connection&connectionless.pdf)
 
 **2023-11-26 (일)**
 - [jvm memory 학습 및 method 호출 시 jvm memory 변화 과정 학습](jvm/jvm-memory.pdf)
