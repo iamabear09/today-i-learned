@@ -7,10 +7,15 @@
 - 보여주기 위해 내가 가진 강의자료를 다시 정리하는 비효율 적인 행동을 하지말고, 이해하기 어려웠던 부분 위주로 내가 이해한 방식으로 정리하자.
 
 #### 📘학습 기록
+**2023-11-30 (목)**
+- [jvm heap영역에서 instance의 memory layout 형태](jvm/Ordinary%20object%20Pointers(OOPs)/ordinary-object-pointers-basic.pdf)
+  
+  <sup>참고 자료</sup> https://www.baeldung.com/java-memory-layout
+
 **2023-11-29 (수)**
 - [garbage collection 기본 학습](jvm/garbage-collection/garbage-collection-basic.pdf)
 
-  ref) https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html
+   <sup>참고 자료</sup>  https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html
   
 **2023-11-28 (화)**
 - [building simple reliable transfer protocol - TCP 원리 학습](network/building-simple-reliable-data-transfer-protocol.pdf)
