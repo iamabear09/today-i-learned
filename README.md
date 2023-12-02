@@ -7,6 +7,9 @@
 - 보여주기 위해 내가 가진 강의자료를 다시 정리하는 비효율 적인 행동을 하지말고, 이해하기 어려웠던 부분 위주로 내가 이해한 방식으로 정리하자.
 
 #### 📘학습 기록
+**2023-12-02 (토)**
+- [GC의 Stop-and-Copy과정 중 사용되는 forwarding pointers에 대해 학습](jvm/garbage-collection/garbage-collection-forwarding-pointers.pdf)
+  
 **2023-12-01 (금)**
 - [OOPs의 Mark Word  학습](jvm/ordinary-object-pointers(oops)/ordinary-object-pointers-mark-word.pdf)
   
