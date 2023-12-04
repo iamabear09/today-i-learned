@@ -8,6 +8,9 @@
 
 #### 📘학습 기록
 
+**2023-12-04 (월)**
+- [multi core에서 동시성 이슈 해결 방법 학습](synchronization/sychronization-in-multicore.pdf)
+
 **2023-12-03 (일)**
 - [운영체제의 semaphore 학습](synchronization/semaphore.pdf)
 
