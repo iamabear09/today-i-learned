@@ -8,6 +8,9 @@
 
 #### 📘학습 기록
 
+**2023-12-05 (화)**
+- [Garbage Collection과정에서 왜 Stop-the-World가 필요한가?](jvm/garbage-collection/garbage-collection-stop-the-world.pdf)
+
 **2023-12-04 (월)**
 - [multi core에서 동시성 이슈 해결 방법 학습](synchronization/sychronization-in-multicore.pdf)
 
