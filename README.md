@@ -7,9 +7,11 @@
 - 보여주기 위해 내가 가진 강의자료를 다시 정리하는 비효율 적인 행동을 하지말고, 이해하기 어려웠던 부분 위주로 내가 이해한 방식으로 정리하자.
 
 #### 📘학습 기록
+**2023-12-06 (수)**
+- [Java의 Synchronization은 Monitor로 구성되어있는데 도대체 어떻게 동작하는거지?](synchronization/sychronization-in-java.pdf)
 
 **2023-12-05 (화)**
-- [Garbage Collection과정에서 왜 Stop-the-World가 필요한가?](jvm/garbage-collection/garbage-collection-stop-the-world.pdf)
+- [Garbage Collection과정에서 Stop-the-World는 왜 필요한거지?](jvm/garbage-collection/garbage-collection-stop-the-world.pdf)
 
 **2023-12-04 (월)**
 - [multi core에서 동시성 이슈 해결 방법 학습](synchronization/sychronization-in-multicore.pdf)
@@ -18,7 +20,7 @@
 - [운영체제의 semaphore 학습](synchronization/semaphore.pdf)
 
 **2023-12-02 (토)**
-- [GC의 Stop-and-Copy과정 중 사용되는 forwarding pointers에 대해 학습](jvm/garbage-collection/garbage-collection-forwarding-pointers.pdf)
+- [GC의 Stop-and-Copy과정 중 사용되는 forwarding pointers가 왜 필요하지?](jvm/garbage-collection/garbage-collection-forwarding-pointers.pdf)
   
 **2023-12-01 (금)**
 - [OOPs의 Mark Word  학습](jvm/ordinary-object-pointers(oops)/ordinary-object-pointers-mark-word.pdf)
