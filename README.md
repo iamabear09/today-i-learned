@@ -7,6 +7,10 @@
 - 보여주기 위해 내가 가진 강의자료를 다시 정리하는 비효율 적인 행동을 하지말고, 이해하기 어려웠던 부분 위주로 내가 이해한 방식으로 정리하자.
 
 #### 📘학습 기록
+
+**2023-12-07 (목)**
+- [Linux의 Process가 실제 코드로 어떻게 생긴거지?](process/process-code.pdf)
+
 **2023-12-06 (수)**
 - [Java의 Synchronization은 Monitor로 구성되어있는데 도대체 어떻게 동작하는거지?](synchronization/sychronization-in-java.pdf)
 
