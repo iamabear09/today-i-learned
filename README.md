@@ -7,6 +7,10 @@
 - 보여주기 위해 내가 가진 강의자료를 다시 정리하는 비효율 적인 행동을 하지말고, 이해하기 어려웠던 부분 위주로 내가 이해한 방식으로 정리하자.
 
 #### 📘학습 기록
+
+**2023-12-09 (토)**
+- [Process의 Data Structure :: Task_descriptor](process/process-task_descriptor.pdf)
+
 **2023-12-08 (금)**
 - [Process는 어떤 과정을 거쳐 생성될까?](process/process-create.pdf)
 
