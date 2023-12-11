@@ -4,9 +4,11 @@
 - 1日1커밋 도전‼️
 - 커밋 내용 → `code` 또는 학습 내용을 `PPT`로 정리한 후 `pdf`로 업로드
 - 보여주기 위해 의미없는 commit하지 말고, 내가 이해한 것을 오래 기억하고 복습 하기 좋도록 정리하자.
-- 보여주기 위해 내가 가진 강의자료를 다시 정리하는 비효율 적인 행동을 하지말고, 이해하기 어려웠던 부분 위주로 내가 이해한 방식으로 정리하자.
+- 보여주기 위해 내가 가진 강의 자료를 다시 정리하는 비효율 적인 행동을 하지말고, 이해하기 어려웠던 부분 위주로 내가 이해한 방식으로 정리하자.
 
 #### 📘학습 기록
+**2023-12-11 (월)**
+- [Green Thread vs Native Thread 그리고 JVM의 Thread 동작 과정](process/user_thread-vs-native_thread.pdf)
 
 **2023-12-09 (토)**
 - [Process의 Data Structure :: Task_descriptor](process/process-task_descriptor.pdf)
