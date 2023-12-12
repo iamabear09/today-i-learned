@@ -7,6 +7,9 @@
 - 보여주기 위해 내가 가진 강의 자료를 다시 정리하는 비효율 적인 행동을 하지말고, 이해하기 어려웠던 부분 위주로 내가 이해한 방식으로 정리하자.
 
 #### 📘학습 기록
+**2023-12-12 (화)**
+- [Deep dive Native&Green Thread](process/Deep%20dive%20Native&Green%20Thread.md)
+
 **2023-12-11 (월)**
 - [Green Thread vs Native Thread 그리고 JVM의 Thread 동작 과정](process/user_thread-vs-native_thread.pdf)
 
