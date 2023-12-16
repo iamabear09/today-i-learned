@@ -8,6 +8,9 @@
 
 #### 📘학습 기록
 
+**2023-12-16 (토)**
+- [다중 접속 서버 구현 및 Select를 통한 멀티플렉싱 서버 원리 학습](network/TCP-multi-flexing-select-function.pdf)
+
 **2023-12-15 (금)**
 - [Process간 통신의 원리](process/process-comunication.pdf) 
 
