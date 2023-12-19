@@ -7,6 +7,8 @@
 - 보여주기 위해 내가 가진 강의 자료를 다시 정리하는 비효율 적인 행동을 하지 말고, 이해하기 어려웠던 부분 위주로 내가 이해한 방식으로 정리하자.
 
 #### 📘학습 기록
+**2023-12-19 (화)**
+- [Thread Per Request Model의 장단점 및 INSITE](spring-thread-model/thread-per-request.pdf)
 
 **2023-12-18 (월)**
 - [asynchronous에 대한 생각 정리 - 왜 Event Loop가 필요하게 되었는지 파악 가능](spring-thread-model/asynchronous-기본.pdf)
