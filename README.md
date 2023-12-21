@@ -7,6 +7,9 @@
 - 보여주기 위해 내가 가진 강의 자료를 다시 정리하는 비효율 적인 행동을 하지 말고, 이해하기 어려웠던 부분 위주로 내가 이해한 방식으로 정리하자.
 
 #### 📘학습 기록
+**2023-12-21 (목)**
+- [Kotlin 문법은 어떻게 Gradle의 Kotlin DSL가 되는가? - Gradle 읽는 방법](gradle/kotlin-for-gradle.pdf)
+
 **2023-12-20 (수)**
 - [Gradle 삽질 중... Kotlin 문법 정리](gradle/Kotlin%20문법%20정리%20for%20Gradle.md)
 
