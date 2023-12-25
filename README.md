@@ -7,6 +7,9 @@
 - 보여주기 위해 내가 가진 강의 자료를 다시 정리하는 비효율 적인 행동을 하지 말고, 이해하기 어려웠던 부분 위주로 내가 이해한 방식으로 정리하자.
 
 #### 📘학습 기록
+**2023-12-25 (월)**
+- 학습 기록물이 없다.. Gradle 공식문서 읽는 중.. 이제 Tasks와 Plugin이 어떻게 동작하는지 이해 완료했다. 공식문서 다시 읽은 후 정리하고 업로드 예정!
+
 **2023-12-23 (토)**
 - [Gradle의 Build Lifecycle 및 extra 사용](gradle/gradle-build-lifecycle-and-extra-usage.pdf)
 
