@@ -7,6 +7,9 @@
 - 보여주기 위해 내가 가진 강의 자료를 다시 정리하는 비효율 적인 행동을 하지 말고, 이해하기 어려웠던 부분 위주로 내가 이해한 방식으로 정리하자.
 
 #### 📘학습 기록
+**2023-12-30 (토)**
+- [Github Repository fork](github/Github%20Repository%20fork.md) :: fork Repo와 Origin Repo의 충돌 발생 시
+
 **2023-12-29 (금)**
 - [Gradle Toolchain이란?](gradle/gradle-bootJar.pdf)
 
