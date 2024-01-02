@@ -8,10 +8,13 @@
 
 #### 📘학습 기록
 **2023-12-30 (토)**
+- [Github의 일반 merge vs rebase merge의 차이에 대해서 살펴보자.](github/github-rebase-merge-vs-merge.pdf)
+
+**2023-12-30 (토)**
 - [Github Repository fork](github/Github%20Repository%20fork.md) :: fork Repo와 Origin Repo의 충돌 발생 시
 
 **2023-12-29 (금)**
-- [Gradle Toolchain이란?](gradle/gradle-bootJar.pdf)
+- [boot Jar란 무엇인가?](gradle/gradle-bootJar.pdf)
 
 **2023-12-28 (목)**
 - [Gradle Toolchain이란?](gradle/gradle-toolchain.pdf)
