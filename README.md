@@ -7,9 +7,13 @@
 - 보여주기 위해 내가 가진 강의 자료를 다시 정리하는 비효율 적인 행동을 하지 말고, 이해하기 어려웠던 부분 위주로 내가 이해한 방식으로 정리하자.
 
 #### 📘학습 기록
+**2023-01-12 (금)**
+- [gradle의 dependency 범위 관련 공부](gradle/gradle-dependencies.md)
+**2023-01-11 (목)**
+- [gradle shell script 분석](https://github.com/iamabear09/self-monitoring/commit/7e74e01716b408439bf964dba5e0b3f12d427142#comments)
 
 **2023-01-05 (금)**
-- [`gradlew` - shell script 공부](https://github.com/iamabear09/shell-script-study/commit/048ae895ad64fc122ae2bd849e1d51ec9ee6aec9)
+- [gradlew - shell script 공부](https://github.com/iamabear09/shell-script-study/commit/048ae895ad64fc122ae2bd849e1d51ec9ee6aec9)
 
 **2023-01-02 (화)**
 - [Github의 일반 merge vs rebase merge의 차이에 대해서 살펴보자.](github/github-rebase-merge-vs-merge.pdf)
