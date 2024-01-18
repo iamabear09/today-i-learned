@@ -1,12 +1,12 @@
 ## Today I Learned Record
 
-#### 📌운영 계획
-- 1日1커밋 도전‼️
-- 커밋 내용 → `code` 또는 학습 내용을 `PPT`로 정리한 후 `pdf`로 업로드
-- 보여주기 위해 의미 없는 commit하지 말고, 내가 이해한 것을 오래 기억하고 복습 하기 좋도록 정리하자.
-- 보여주기 위해 내가 가진 강의 자료를 다시 정리하는 비효율 적인 행동을 하지 말고, 이해하기 어려웠던 부분 위주로 내가 이해한 방식으로 정리하자.
-
 #### 📘학습 기록
+
+**2024-01-18 (수)**
+- [Test에 대한 Review](test/TEST에%20대하여.md) & Project - Fake Repository를 어떻게 만들어야 할까..?
+
+**2024-01-17 (수)**
+- [gradle의 lombok dependency without springinitializer](gradle/gradle-dependencies.md)
 
 **2024-01-16 (화)**
 - [Project - API를 어떻게 설계하는 것이 더 좋은 방법일까?](https://github.com/f-lab-edu/self-monitoring/issues/3#issuecomment-1893046172)

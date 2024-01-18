@@ -66,6 +66,38 @@ configurations {
 
 <br><br>
 
+### Lombok 사용 관련 피드백
+
+```
+configurations {  
+    compileOnly {  
+        extendsFrom annotationProcessor  
+    }  
+  
+    testCompileOnly {  
+        extendsFrom testAnnotationProcessor  
+    }  
+}  
+  
+dependencies {  
+    compileOnly 'org.projectlombok:lombok'  
+    annotationProcessor 'org.projectlombok:lombok'  
+  
+  
+    testCompileOnly 'org.projectlombok:lombok'  
+    testAnnotationProcessor 'org.projectlombok:lombok'  
+  
+    testImplementation 'org.springframework.boot:spring-boot-starter-test'  
+}
+```
+
+위 코드를 살펴보자. 이상한 점은 분명 `compileOnly`는 `annoationProcessor`를 extends 하고 있는데 왜 dependencies에서  compileOnly에서 또 lombok을 의존했을까?
+그래서 두 가지 테스트를 해보았다.
+1. `compileOnly`에서 `lombok`을 의존하지 않아도 되는가? → 문제 없었다.
+2. configuration을 지우고 compileOnly를 지우면 문제가 발생하는가? → lombok을 인식하지 못한다.
+
+이것과는 별개로 lombok의 plugin을 사용하는 것이 lombok에서 권장하는 방법이다.
+
 
 ### IntelliJ 설정
 
